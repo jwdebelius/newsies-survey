@@ -1,0 +1,1246 @@
+Item 1: consent (multiple choice)
+================================================================================
+
+I certify that the nature and purpose, the potential benefits and possible
+risks associated with participation in this research study have been explained
+to the above individual and that any questions about this information have
+been answered. This electronic consent stands in place of my signature.
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       I am over the age of 18 and I consent to participate      160 
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * This question was required for all participants
+
+
+******************************************************************************
+
+
+Item 2: first_media (multiple choice)
+================================================================================
+
+1. What was your first exposure to Newsies?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       The 1992 movie                                             87 
+       The 1992 movie soundtrack                                   3 
+       The musical (Broadway or Tour)                             13 
+       The original Broadway cast soundtrack                      18 
+       The Newsies Live movie                                     34 
+       Fandom                                                      2 
+       Historical Strike                                           1 
+       Promotional Videos                                          2 
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * First exposure based on the promotional video series (AKB or Playbill) were
+     put in a "promotional videos" category
+   * The 1992 sound track was added, based on people listing to Broadway Kids
+     (released pre 2011), citing the soundtrack explicitly, or doing a medley
+     pre 2011
+   * Anything idetifying fandom first was classified as "fandom"
+   * We added a "historical strike" group
+   * Local, regional, high school, or bootlegs were all grouped into "muscical"
+     as the first exposure)
+
+
+******************************************************************************
+
+
+Item 3: first_period (multiple choice)
+================================================================================
+
+2. When (approximately) did you first become interested in or see Newsies?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       1992 - 1995                                                27 
+       1996 - 1999                                                 9 
+       2000 - 2003                                                 6 
+       2004 - 2007                                                 6 
+       2008 - 2010                                                 9 
+       2011 - 2014                                                23 
+       2015 - 2016                                                12 
+       2017 - 2019                                                47 
+       2020 -                                                     21 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 4: all_media_seen (checklist)
+================================================================================
+
+3. How many of the following have you seen? (Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Newsies 1992                                           152     7   
+       Newsies Live                                           128    31   
+       Newsies Musical (Papermill, Broadway, Tour, or          89    70   
+           Regional Theater)                           
+       Blood Drips on Newsies Square                           81    78   
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 5: performance_seen (checklist)
+================================================================================
+
+4. Have you seen a live performance of Newsies (the musical)? (Select all that
+apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       No, I didn’t know about it soon enough                  29   131   
+       No, I wasn’t interested at the time                     11   149   
+       No, but I would love to have the opportunity            62    98   
+       No, it was not practical (too far away or too           35   125   
+           expensive)                                  
+       Yes, in previews                                         8   152   
+       Yes, on Broadway                                        22   138   
+       Yes, on tour                                            30   130   
+       Yes, local theater                                      43   117   
+       Yes, local high school                                  13   147   
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 6: movie1992_seen (checklist)
+================================================================================
+
+5. Have you seen a screening of Newsies (1992)? (Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Yes, I saw it in 1992                                   16   144   
+       Yes, I saw the 2015 El Capitan Screening                 3   157   
+       Yes, I saw it as part of a high school or university    12   148   
+           course                                      
+       Yes, I saw another screening                            16   144   
+       No, I didn't know there were screenings                 73    87   
+       No, it was not of interest to me                         4   156   
+       No, it was not practical (too far away or too           21   139   
+           expensive)                                  
+       No, I didn’t know there were screenings                 40   120   
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 7: newsies_live_seen (checklist)
+================================================================================
+
+6. Have you seen a screening of Newsies Live (i.e. not Netflix or Disney
+Plus)? (Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Yes, I saw it in a movie theater                        42   117   
+       Yes, I saw it as part of a high school or university     2   157   
+           course                                      
+       Yes, I saw another screening                            13   146   
+       No, I didn’t know there were screenings                 49   110   
+       No, it was not of interest to me                        19   140   
+       No, it was not practical (too far away or too           19   140   
+           expensive)                                  
+       I was not interested at the time but would be now       36   123   
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 8: engage_oppertunity (checklist)
+================================================================================
+
+7. If offered the opportunity (i.e., if money, distance, and/or public health
+were not a concern), which would you like to attend? Select all that apply.
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Attend a Broadway revival of Newsies                   127    32   
+       See a touring company of Newsies                       117    42   
+       See a local theater production of Newsies              101    58   
+       Attend a screening of Newsies Live! in a movie          86    73   
+           Theater                                     
+       Attend a screening of Newsies (1992) in a movie        118    41   
+           theater                                     
+       Join an online screening event for Newsies Live!        65    94   
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 9: engage_real_life (checklist)
+================================================================================
+
+8. With current real life limitations (i.e., time, money, distance), which
+would you be able to attend? Select all that apply
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Attend a Broadway revival of Newsies                    33   125   
+       See a touring company of Newsies                        78    80   
+       See a local theater production of Newsies              112    46   
+       Attend a screening of Newsies Live! in a movie         100    58   
+           Theater                                     
+       Attend a screening of Newsies (1992) in a movie        114    44   
+           Theater                                     
+       Joining an online screening event of Newsies (1992)    125    33   
+       Join an online screening event for Newsies Live!       121    37   
+           (i.e. through Playbill)                     
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 10: actors_live_shows_list (free text)
+================================================================================
+
+9b. If yes, which actors/shows?
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 11: actors_live_shows_bool (checklist)
+================================================================================
+
+9. Have you gone to see actors from Newsies perform in other live shows or
+venues? (Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Yes, intentionally                                      27   132   
+       Yes, unintentionally                                    31   128   
+       No, I didn’t know that happened                         30   129   
+       No, I am not interested                                 16   143   
+       No, it is not possible for me to attend such shows      71    88   
+           (too far away, too much money, etc)         
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 12: actors_engage_fandom_bool (multiple choice)
+================================================================================
+
+10. Have you followed Newsies actors’ careers and become involved in other
+fandoms because of those actors? (This can be through social media, fan
+conventions, or other means).
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       Yes                                                        95 
+       No                                                         56 
+       I didn’t know this was a thing, but I might try it          8 
+           now                                             
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 13: actors_engage_fandom_list (free text)
+================================================================================
+
+10b. If yes, which actors/shows?
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 14: fanish_content_consumed (checklist)
+================================================================================
+
+11. Do you or have you consumed any fannish content associated with Newsies
+(e.g. fan-made gifs, fan art, fan fiction, role playing, cosplaying, etc)?
+(Select all that apply.)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       No, I am not interested                                  8   152   
+       No, I didn’t know it existed                             7   153   
+       No, but I might now                                      1   159   
+       Yes, I have looked at gifs or fan art                  128    32   
+       Yes, I have looked at roleplays or cosplays             76    84   
+       Yes, I have read fan fiction                           129    31   
+       Yes, I have read fan historical blogs/posts, sites or  109    51   
+           metas                                       
+       Yes, I have watched fan videos                          87    73   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Added a new category for consuming videos (`[yes_videos]`)
+
+
+******************************************************************************
+
+
+Item 15: fannish_content_produced (checklist)
+================================================================================
+
+12. Do you produce any fannish content associated with Newsies? (Select all
+that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       No, I am not interested                                 37   121   
+       No, I didn’t know it existed                             5   153   
+       Yes, I am an online moderator                            5   153   
+       Yes, I have choreographed routines                       1   157   
+       Yes, I have cosplayed                                   38   120   
+       Yes, I have engaged in roleplaying                      35   123   
+       Yes, I have made fan art                                41   117   
+       Yes, I have made fan videos                             16   142   
+       Yes, I have made gifs of the movie or stage show        19   139   
+       Yes, I have participated in a private messaging group   60    98   
+           or several related to my interest in the    
+           fandom (i.e. Discord, Slack, etc.)          
+       Yes, I have produced aca-fan content                     2   156   
+       Yes, I have witten metas or done historical research    56   102   
+       Yes, I have written fan fiction                         95    63   
+       Yes, I produce audio content (podfic, podcast, etc)      3   155   
+       Yes, I wrote fics that I did not share                   3   155   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Added online moderation for activities like running a blog, and
+     administering a server or forum (`[yes_moderator]`)
+   * Added choreography for activites like arranging music or choreographing
+     dance routines (`[yes_choreography]`)
+   * Added the creation of fan videos
+     (`fannish_content_produced_[yes_fan_video]`)
+   * Added the creation of audio content like podfics and podcasts
+     (`fannish_content_produced_[yes_pod]`
+   * Added the creation of content which was produced but not shared, for
+     example, fan fiction that was written but not posted, or fan fiction which
+     is in progress but has not been posted yet). (`[yes_private]`)
+
+
+******************************************************************************
+
+
+Item 16: fannish_platforms (checklist)
+================================================================================
+
+13. What are your preferred platforms for engagement in the Newsies fandom?
+(Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Amino                                                    2   144   
+       Archive of Our Own                                     106    40   
+       Deviant Art                                              3   143   
+       Discord or Slack Group                                  30   116   
+       Dreamwidth                                               2   144   
+       Fanfiction.net                                          27   119   
+       Instagram                                               41   105   
+       Live Journal                                             4   142   
+       Pinterest                                                2   144   
+       Private Listserv                                         2   144   
+       TikTok                                                   1   145   
+       Tumblr                                                 128    18   
+       Twitter                                                 28   118   
+       Wattpad                                                 14   132   
+       Yahoo Groups or message board                            5   141   
+       YouTube                                                  4   142   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Added Amino based on free text (`[amino]`)
+   * Removed non-answers or non-categorizable answers ("I didnt know there was a
+     fandom", "I dont particiapte online" etc)
+   * Added Pintrest based on free text (`[pintrest]`)
+   * Added Tiktok based on free text (`[tiktok]`)
+   * Remapped Geocities as Yahoo groups (this was an old name for the platform
+   * Added YouTube based on free text (`[youtube]`)
+
+
+******************************************************************************
+
+
+Item 17: period_active_tidy (derived)
+================================================================================
+
+22. During what years were you active in Newsies fandom? (Please write YYYY to
+YYYY; please write YYYY to Present if you are currently active)
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Free text from the `period_active` field was standardized into a machine
+     readable-format.
+   * Distinct periods of activity were seperated with a semi-colon (;) (i.e the
+     entry 1992-1995;2002-2005 indivates the individul was active both between
+     1992 and 1995 and between 2002 and 2005, but not between 1995 and 2002.)
+   * Duration is described using a consistent format for multi-year periods:
+     YYYY-YYYY
+   * Single year formats are left as a single number: YYYY
+   * Times indicating "present" for fandom participation was simplified to 2021,
+     since this was the end of the survery period.
+   * Any description indicating uncertainty has been removed (i.e. 2012ish
+     becomes 2012)
+   * If users specified a period of particular activity, this has been used as
+     the primary period
+   * Notes about "sleeper fandom" and "on hiatus" have been removed
+
+
+******************************************************************************
+
+
+Item 18: favorite_character_rank (ranked)
+================================================================================
+
+14. Who are your favorite Newsies characters? Please rank your top 5, with
+your first choice being your most favorite.
+
+================================================================================
+
+     ---------------------------------------------------------------------------
+        Answer                                       In top 5   Median Rank
+     ---------------------------------------------------------------------------
+       Jack Kelly                                      129            2    
+       Racetrack Higgins                                89            3    
+       David Jacobs                                    115            3    
+       Sarah Jacobs                                     41            4    
+       Crutchie | Crutchy                               74            3    
+       Spot Conlon                                      88            2    
+       Katherine Plumber Pulitzer                       68            3    
+       Albert                                           20            4    
+       Specs                                            12            4    
+       Romeo                                            10            4    
+       Kid Blink                                        38            4    
+       Les Jacobs                                       25            4    
+       Finch                                             9            4    
+       Other                                            40            5    
+     ---------------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * A value of 7 was added if the respondent did not select the character. Any
+     participant with all missing vlaues did not answer the question.
+
+
+******************************************************************************
+
+
+Item 19: favorite_character_other_name (derived)
+================================================================================
+
+14b.  If you would like to tell us why a character is your favorite, please
+do! If you responded "Other," please tell us which character that was.
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Information is based on participant free text responses about their other
+     favorite characters or reasons a character is their favorite.
+   * Names were shortened and standardized (i.e. Medda Larkin -> Medda, Medda
+     Larkson -> Medda, Medda -> Medda)
+   * Multiple characters are listed with a ;, based on the order provided
+   * Editorial comments about why these others are favorites has been removed
+
+
+******************************************************************************
+
+
+Item 19: favorite_characters_desc (free text)
+================================================================================
+
+14b.  If you would like to tell us why a character is your favorite, please
+do! If you responded "Other," please tell us which character that was.
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 20: favorite_ship_rank (ranked)
+================================================================================
+
+14. Who are your favorite Newsies characters? Please rank your top 5, with
+your first choice being your most favorite.
+
+================================================================================
+
+     ---------------------------------------------------------------------------
+        Answer                                       In top 5   Median Rank
+     ---------------------------------------------------------------------------
+       Racetrack Higgins/Spot Conlon                    83            2    
+       David Jacobs/Jack Kelly                          98            1    
+       Jack Kelly/Katherine Plumber Pulitzer            65            2    
+       Katherine Plumber Pulitzer/Sarah Jacobs          58            3    
+       Crutchie | Crutchy /Jack Kelly                   26            2    
+       Kid Blink/Mush Meyers                            53            3    
+       Albert/Racetrack Higgins                         23            4    
+       Romeo/Specs                                      15            4    
+       Albert/Elmer                                     12            5    
+       Albert/Finch                                      9            5    
+       Crutchie/David Jacobs                             9            5    
+       extracted from descriptions: Sarah Jacobs /      14            1    
+           Jack Kelly; given the lowest rank 
+           for favorite ship                 
+       Other                                            36            2    
+     ---------------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * A value of 7 was added if the respondent did not select the character. Any
+     participant with all missing vlaues did not answer the question.
+   * A new column (`favorite_ship_rank_[sarah_jack]`) was added based on the
+     number of people who selected this as thier favorite ship. In that case, it
+     was assigned the lowest value assigned to the "other" category. The survey
+     creators regret the exclusion of this key ship.
+
+
+******************************************************************************
+
+
+Item 21: favorite_ship_desc (free text)
+================================================================================
+
+15b.  If  you would like to tell us why you ship a particular couple, please
+do! If you responded "Other," please tell us which relationship that was.
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 21: favorite_ships_other_name (derived)
+================================================================================
+
+15b.  If  you would like to tell us why you ship a particular couple, please
+do! If you responded "Other," please tell us which relationship that was.
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Responses are based on a standardized extraction of data from participant's
+     free text responses
+   * Names were shortened and standardized (i.e. Kid Blink/Mush Meyers,
+     Blink/Mush and Kid Blink Balitti x Mush were all mapped to "Kid Blink/Mush
+     Meyers")Multiple ships were linked with a semi-colon(";")
+   * Because Sarah and Jack were pulled out as a stand alone ship, any cell
+     including these was left as blank. This represented all but one cell
+   * Editorial comments about why these are favorite have been removed
+
+
+******************************************************************************
+
+
+Item 22: polyamorous_bool (multiple choice)
+================================================================================
+
+16. Do you ever ship polyamorous relationships?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       Yes                                                        36 
+       No                                                         65 
+       Sometimes                                                  49 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 23: polyamorous_ships (checklist)
+================================================================================
+
+16b. If so, which ones? (Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       David Jacobs/Jack Kelly/Crutchie Morris                 22    43   
+       David Jacobs/Jack Kelly/Katherine Plumber/Sarah          1    64   
+           Jacobs (angle)                              
+       David Jacobs/Jack Kelly/Sarah Jacobs (angle)             2    63   
+       David Jacobs/Spot Conlon/Jack Kelly                      1    64   
+       Finch/Albert/Crutchie Morris                             1    64   
+       Finch/Albert/Tommy Boy                                   1    64   
+       Jack Kelly/David Jacobs/Katherine Plumber               30    35   
+       Jack Kelly/Mush Meyers/Sarah Jacobs                      1    64   
+       Racetrack Higgins/Spot Conlon/Kid Blink                  1    64   
+       Sarah Jacobs/Jack Kelly/Katherine Plumber               11    54   
+       Sarah Jacobs/Smalls/Katherine Plumber                    5    60   
+       Spot Conlon/Racetrack Higgins/Albert                    30    35   
+       Spot Conlon/Racetrack Higgins/Albert/Elmer               6    59   
+       Spot Conlon/Racetrack Higgins/Romeo                      6    59   
+       Swifty/Skittery/Bumlets                                  1    64   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Added a new polyamorous ship for the relationship between David Jacobs,
+     Jack Kelly, Katherine Pultizer Plumber and Sarah Jacobs
+     (`david_jack_katherine_sarah_angle`)
+   * Added a new polyamorous ship for the relationship between David Jacobs,
+     Jack Kelly, and Sarah Jacobs (`david_jack_sarah_angle`)
+   * Added a new polyamorous ship for the relationship between Finch, Albert
+     DaSilva, and Crutchie (Crutchy) Morris (`finch_albert_crutchie`)
+   * Added a new polyamorous ship for the relationship between Racetrack
+     Higgins, Spot Conlon and Kid Blink (`racetrack_spot_blink`)
+   * Added a new polyamorous ship for the relationship between Sarah Jacobs,
+     Katherine Plumber Pullitzer, and Samlls  (`sarah_smalls_katherine`)
+   * Added a new polyamorous ship for the relationship between Spot Conlon,
+     Racetrack Higgins, Albert DaSilva, and Elmer
+     (`spot_racetrack_albert_elmer`)
+   * Added a new polyamorous ship for the relationship between Spot Conlon,
+     Racetrack Higgins, and Romeo (`spot_racetrack_romeo`)
+   * Added a new polyamorous ship for the relationship between Swifty, Skittery,
+     and Bumlets (`swifty_skittery_bumlets`)
+
+
+******************************************************************************
+
+
+Item 24: polyamorous_desc (free text)
+================================================================================
+
+16c. If  you would like to tell us why you ship a particular polyamorous ship,
+please do! If you responded "Other," please tell us which relationship that
+was.
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 25: favorite_trope (checklist)
+================================================================================
+
+17. Favorite Tropes (Select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Angst                                                    2   132   
+       Band AU                                                  1   133   
+       Canon era                                                7   127   
+       Coffee Shop AU                                          34   100   
+       College or High School AU                               65    69   
+       David as a lawyer                                       22   112   
+       David as journalist                                      1   133   
+       Denton as father figure                                  2   132   
+       Enemies to lovers                                        2   132   
+       Fairy Tale/Fantasy AU                                   29   105   
+       Fake dating                                             38    96   
+       Girlsies                                                 1   133   
+       Grown ups                                                1   133   
+       Hurt/Comfort                                            86    48   
+       Jack as an artist                                       71    63   
+       LetCrutchieSayFuck                                       1   133   
+       Medda as a mom/foster mom                               79    55   
+       Modern AU                                               86    48   
+       Race as a dancer                                        39    95   
+       Roommates                                               51    83   
+       Slowburn                                                 1   133   
+       Soulmate AU                                              4   130   
+       Time Travel                                             37    97   
+       Wild AU                                                  1   133   
+       found family                                             1   133   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Based on participant responses, we added a angst as a favorite trope
+     (`angst`)
+   * Based on participant respones, we added a category for an alternative
+     universe where newsies are a member of a band (`au_band`)
+   * Based on participant responses, we added a category for fics set in the
+     cannon era. (`cannon_era`)
+   * The original survey asked about college AUs; high school AUs were also
+     popular based on participant resposnses. We combined the two into a new
+     composite category (`au_hs_college`),
+   * Based on participant responses, we added a category for david as a
+     journalist (`david_journalist`)
+   * Based on participant responses, we added a category for denton acting as a
+     father figure to the newsies (`denton_father`)
+   * Based on participant responses, we added a category for the "enemies to
+     lovers" relationship trope (`enemies_to_lovers`)
+   * We added mermaids into fantasy AUs
+   * Based on participant responses of a favorite trope that there were actually
+     female newsies in canon era (`girlsies`)
+   * Based on participant responses, we added a category for adult newsies
+     (`aged_up`)
+   * Based on the participant response that their favorite trope was
+     "LetCrutchieSayFuck" (`crutchie_bamf`)
+   * Based on participant resposnes, we added the "Slowburn" trope (`slowburn`)
+   * Based on participant responses, we added a category for Soulmate or
+     Soulmark alternative universe (`au_soulmate`)
+   * Based on particiapnt responses, we added a category for strange, unique, or
+     "wild" alternative universe stories (old west, spy, etc) (`au_wild`)
+   * Based on participant resposnes, we added a category for characters building
+     a found family (`found_family`)
+
+
+******************************************************************************
+
+
+Item 26: favorite_trope_desc (free text)
+================================================================================
+
+17b. If you would like to tell us why you love a particular trope, please do!
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 27: favorite_adult_rank (ranked)
+================================================================================
+
+18. Who are your favorite adult characters? Please rank your top five, with
+your first choice being your most favorite.
+
+================================================================================
+
+     ---------------------------------------------------------------------------
+        Answer                                       In top 5   Median Rank
+     ---------------------------------------------------------------------------
+       Medda Larkson|Larkin                            139            1    
+       Esther Jacobs                                    74            3    
+       Mayer Jacobs                                     63            4    
+       Bryan Denton                                    112            2    
+       Hannah                                           56            3    
+       Kloppman                                         66            3    
+       Joseph Pulitzer                                  38            4    
+       Snyder                                           22            4    
+       Teddy Rosevelt                                   62            3    
+       Other                                             8            5    
+     ---------------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 28: favorite_adult_other_name (derived)
+================================================================================
+
+18b. If you would like to tell us why a particular adult character is your
+favorite, please do! If you responded "Other," please tell us which character
+that was.
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 28: favorite_adult_desc (free text)
+================================================================================
+
+18b. If you would like to tell us why a particular adult character is your
+favorite, please do! If you responded "Other," please tell us which character
+that was.
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 29: queer_characters (multiple choice)
+================================================================================
+
+19. Do you see any of the Newsies characters as belonging to the LGBQ+ or
+T/GNC+ communities?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       No                                                         20 
+       Yes                                                       124 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 30: queer_characters_list (free text)
+================================================================================
+
+19b. If so, which ones? Please feel free to list characters and how you see
+their sexual orientation and/or gender expression.
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 31: queer_characters_reason (free text)
+================================================================================
+
+19c. If you would like to tell us why you see a particular character as LGBQ+
+or T/GNC+, please do!
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 32: media_preference (multiple choice)
+================================================================================
+
+20. As a fan, do you prefer the film or the stage version of Newsies?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       The film                                                   56 
+       The stage production                                       56 
+       I enjoy them both equally                                  33 
+       I have only seen the stage show                             5 
+       I have only seen the film                                   8 
+       I have not seen either                                      1 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 33: media_preference_desc (free text)
+================================================================================
+
+20b. If you would like to tell us why, please do!
+
+================================================================================
+
+     This is a free response question. Answers are not made public to protect
+     participant privacy.
+          -----------------------------------------------------------      
+     160 participants chose to respond to this question
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 34: strike_research (checklist)
+================================================================================
+
+21. After seeing either version of Newsies, did you do any  research on the
+historical 1899 strike? (Check all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       No, I wasn’t interested                                  3   157   
+       No, it didn’t occur to me                                3   157   
+       Yes, I became a historical expert                        3   157   
+       Yes, I studied the strike in school                      3   157   
+       Yes, through academic secondary sources (books,        104    56   
+           journal articles, etc.)                     
+       Yes, through fan-made sources (blogs, websites, etc.)  102    58   
+       Yes, through non-academic secondary sources             74    86   
+           (children's history books, podcasts, etc.)  
+       Yes, through open source sources (Wikipedia, etc.)     109    51   
+       Yes, through primary sources (newspaper articles,       83    77   
+           letters, etc.)                              
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Based on participant responses, we added a category for people who became
+     experts about the newsboys strike. Oopsie is a referenced to one of the
+     participant responses. (`yes_expert_oopsie`)
+   * Based on participant responses, we added a category for people studied the
+     1899 newsboys strike in school (`yes_in_school`)
+
+
+******************************************************************************
+
+
+Item 35: demography_age (multiple choice)
+================================================================================
+
+1. How old are you?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       18 - 21                                                    70 
+       22 - 25                                                    28 
+       26 - 30                                                    20 
+       31 - 35                                                    12 
+       36 - 40                                                    18 
+       41 - 45                                                     9 
+       46 - 60                                                     3 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 36: demography_gender (multiple choice)
+================================================================================
+
+2. What is your gender identity?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       Female                                                    109 
+       Male                                                       12 
+       Nonbinary                                                  27 
+       Genderqueer                                                 6 
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * Based on participant free text responses, we added a category indicating
+     the participant was questioning their gender. For example "IDK" was mapped
+     to this category
+   * Based on an IRB requirement to group demographic data, we remapped an
+     individual who described themself as a "demi-girl" and "genderfluid" to
+     genderqueer
+
+
+******************************************************************************
+
+
+Item 37: demography_trans (multiple choice)
+================================================================================
+
+3. Do you identify as trans?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       No                                                        128 
+       Yes                                                        28 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 38: demography_orientation (checklist)
+================================================================================
+
+4. What is your sexual orientation? (Please select all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       Ace/Aro Spectrum or demisexual                          41   114   
+       Bisexual                                                53   102   
+       Heterosexual                                            44   111   
+       Homosexual                                              14   141   
+       Pansexual or Omnisexual                                  4   151   
+       Queer                                                   32   123   
+       Questioning                                              7   148   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * We combined the existing category, "Asexual or Aromantic spectrum" with
+     participant provided responses indciating demisexuality into a single
+     category including asexual, aromatic, and demisexual individuals
+   * We removed non-responses that didn't directly answer the question of sexual
+     orientation
+   * We combined the existing pansexual category with particiapnt provided
+     omnisexual orientation (`pansexual_omnisexual`)
+   * Based on participant responses, we added a category to indicate the
+     participant was questioning their sexual orientation
+
+
+******************************************************************************
+
+
+Item 39: demography_country_residence (multiple choice)
+================================================================================
+
+5. What country do you live in?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       Information in country of residence file                  154 
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * A list of countries where participants live, but not the number of
+     participants in each country, can be found in the
+     countries_of_residence.txt file
+
+
+******************************************************************************
+
+
+Item 40: demography_state_residence (multiple choice)
+================================================================================
+
+5b. If you live in the US, what state or territory?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       Information in states of residence file                   120 
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * A list of participant's states of residence within the US, but not the
+     number of participants, is provided in the states_of_residence.txt file
+
+
+******************************************************************************
+
+
+Item 41: demography_education_level (multiple choice)
+================================================================================
+
+6. What is your highest level of education?
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Response                                                 Count
+     ----------------------------------------------------------------------
+       Have not completed high school                             17 
+       High School Graduate/GED                                   18 
+       Some college                                               35 
+       Associate's Degree                                          5 
+       Bachelor's Degree                                          39 
+       Master’s degree                                            16 
+       Currently in a professional or graduate program             9 
+       PhD or professional degree (MD, JD, etc)                   16 
+     ----------------------------------------------------------------------
+
+================================================================================
+
+
+******************************************************************************
+
+
+Item 42: hear_about_survey (checklist)
+================================================================================
+
+8. How did you hear about this survey? (Check all that apply)
+
+================================================================================
+
+     ----------------------------------------------------------------------
+       Answer                                                 Yes    No
+     ----------------------------------------------------------------------
+       A friend recommended it to me                           22   136   
+       Facebook                                                 9   149   
+       Tumblr                                                 109    49   
+       Twitter                                                 31   127   
+     ----------------------------------------------------------------------
+
+================================================================================
+Data cleaning notes
+-------------------
+   * We removed any responses that did address the original question (for
+     example, "I hope you release your data")
+   * We normalized responses whcih provided more descriptive information and
+     standardized them back to the original source
